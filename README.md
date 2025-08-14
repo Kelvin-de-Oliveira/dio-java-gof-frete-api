@@ -79,7 +79,7 @@ src/
  │    │    ├── service/         # Estratégias + Singleton
  │    │    └── FreteApiApplication.java
  │    └── resources/            # Configurações e propriedades
- └── test/                      # Testes unitários e de integração
+
 ```
 
 ---
