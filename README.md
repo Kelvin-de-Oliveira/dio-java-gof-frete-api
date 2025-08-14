@@ -72,13 +72,13 @@ GET http://localhost:8080/frete?transportadora=transportadoraX&peso=3&distancia=
 ## 📂 Estrutura do Projeto
 ```
 src/
- ├── main/
- │    ├── java/com/exemplo/freteapi/
- │    │    ├── controller/      # Controllers REST
- │    │    ├── facade/          # Facade
- │    │    ├── service/         # Estratégias + Singleton
- │    │    └── FreteApiApplication.java
- │    └── resources/            # Configurações e propriedades
+ ├─ main/
+    ├── java/com/exemplo/freteapi/
+    │   ├── controller/      # Controllers REST
+    │   ├── facade/          # Facade
+    │   ├── service/         # Estratégias + Singleton
+    │   └── FreteApiApplication.java
+    └── resources/            # Configurações e propriedades
 
 ```
 
