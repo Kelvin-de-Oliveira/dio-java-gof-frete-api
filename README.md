@@ -16,7 +16,7 @@ O **Frete API** foi criado para exemplificar como aplicar padrões de projeto no
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **Java 17+**
+- **Java 21+**
 - **Spring Boot 3+**
 - **Maven** (com Wrapper)
 ---
